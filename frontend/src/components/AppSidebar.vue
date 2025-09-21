@@ -119,7 +119,7 @@
 							</div>
 						</template>
 					</Tooltip>
-					<Tooltip :text="__('Powered by Learning')">
+					<Tooltip :text="__('Powered by Fluxion Learning')">
 						<Zap
 							class="size-4 stroke-1.5 text-ink-gray-7 cursor-pointer"
 							@click="redirectToWebsite()"
